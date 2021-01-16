@@ -1,7 +1,7 @@
 # yoonmo.github.io
 
 ## Korea Aerospace University
-* E-mail: <yym064@kau.kr>
+* E-mail: yym064@kau.kr
 * Office: Room #402, Research Building
 * Contact: 76 Hanggongdaehang-ro, Deogyang-gu, Goyang, Korea
 * Github: <https://github.com/yym064>
@@ -29,23 +29,23 @@
 
 ## <strong>Publication
 ### International Journal
-* S. Y. Lee, Y. Yang, D. Kim, S. Cho, and B. T. Oh, " Offset-based in-loop filtering with a deep network in HEVC," IEEE Access, Nov 2020. 
+* S. Y. Lee, Y. Yang, D. Kim, S. Cho, and B. T. Oh, "Offset-based in-loop filtering with a deep network in HEVC," IEEE Access, Nov 2020. [[<em>Code]](https://github.com/yym064/DeepSAO), [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9272307)
 
-* Y. Yang, B. T. Oh, “Video frame interpolation using deep cascaded network structure,”  Signal Processing: Image Communication, Nov. 2020.
+* Y. Yang, B. T. Oh, “Video frame interpolation using deep cascaded network structure,”  Signal Processing: Image Communication, Nov. 2020. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0923596520301491?casa_token=eQ66ifyZ3ugAAAAA:t50zKvQR1234Wl8LADp3wAqD0MzqIMNHTzknbR3LklVECtVbzLQ1LLgvzjpKeeHY9iNr5yrZBNmV)
 
-* Y. Yang, D. Kim, and B. T. Oh, “Deep convolutional grid warping network for joint depth map upsampling,”  IEEE Access, 2020.
+* Y. Yang, D. Kim, and B. T. Oh, “Deep convolutional grid warping network for joint depth map upsampling,”  IEEE Access, 2020. [[<em>Code]](https://github.com/yym064/DeepGridWarp), [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9163094)
 
-* J. H. Hong, Y. Yang, and B. T. Oh, " Detection of frame deletion in HEVC-coded video in the compressed domain," Digital Investigation, Sep. 2019.
+* J. H. Hong, Y. Yang, and B. T. Oh, "Detection of frame deletion in HEVC-coded video in the compressed domain," Digital Investigation, Sep. 2019. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1742287619301343?casa_token=x7d0L7lApBwAAAAA:Ke-ZGl8AWMbWH6MbLAw5pRPKIvh4-ESbcGkcVl0EBHvCn2MmZBVhEQvWHkjiC5L_Zr5uyi1j9v6i)
 
-* Y. Yang, H. S. Lee, and B. T. Oh, “Depth map upsampling with a confidence-based joint guided filter,”  Signal Processing: Image Communication, Sep. 2019.
+* Y. Yang, H. S. Lee, and B. T. Oh, “Depth map upsampling with a confidence-based joint guided filter,”  Signal Processing: Image Communication, Sep. 2019. [[Paper]](https://www.sciencedirect.com/science/article/pii/S092359651830849X?casa_token=ojJZvHutCX4AAAAA:50RkrtSgfVb14VPmQolbtazDgZek-6D6H-hs70UE22AIoRTMeR8x1McY_aCByfdaWbUZC64G7hj2)
 
 * Y. Yang, J. H. Hong, and B. T. Oh, “Multi-layer frame rate up-conversion using trilateral filtering for multi-view video,” IEEE Trans. on Circuits and Systems for Video Technology, Feb. 2019.
 
-* D. Lee, Y. Yang, and B. T. Oh, “Pre-/post-processing to improve the coding performance of multiview plus depth map,” Signal Processing: Image Communication, Oct. 2017.
+* D. Lee, Y. Yang, and B. T. Oh, “Pre-/post-processing to improve the coding performance of multiview plus depth map,” Signal Processing: Image Communication, Oct. 2017. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0923596517301194?casa_token=C1Szh3OjDUMAAAAA:J5nigFYK2_6hppRmzM7DnwvX96u3Z0fMzICR5hcxYngCDo-CISFwq69JJVgAROGfqOy-fQEAGSQb)
 
 
 ### International Conference
-* Y. Yang, D. Lee, and B. T. Oh,“Frame rate up conversion for multi-view video,” APSIPA Annual Summit and Conference, 2016.
+* Y. Yang, D. Lee, and B. T. Oh,“Frame rate up conversion for multi-view video,” APSIPA Annual Summit and Conference, 2016. [[Paper]](http://www.apsipa.org/proceedings_2016/HTML/paper2016/152.pdf)
 
 * D. Lee, Y. Yang, and B. T. Oh,“Enhancement of depth map post-processing for 3D video coding,” International Workshop on Advanced Image Technology, 2016.
 
