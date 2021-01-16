@@ -11,6 +11,7 @@
 ## <strong>Education
 * Ph.D Student (Present)
     * Department of Electronics and Information Engineering, Korea Aerospace University, Korea
+    * Dissertation : Image and Video Resolution Enhancement using Joint Upsampling and Frame Interpolation
 * Master of Science, Feb. 2017
     * Department of Electronics and Information Engineering, Korea Aerospace University, Korea
 * Bachelor of Science, Feb. 2015
