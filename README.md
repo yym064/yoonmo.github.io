@@ -1,4 +1,4 @@
-# yoonmo.github.io
+# Yoonmo Yang
 
 ## Korea Aerospace University
 * E-mail: yym064@kau.kr
