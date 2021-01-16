@@ -22,7 +22,7 @@
     * Frame interpolation
     * Video Forensic
 * Image Processing & Computer Vision
-    * Multiview Geometric
+    * Multiview Geometry
     * Image Filtering
     * Video Codec
 
