@@ -1,10 +1,10 @@
 # yoonmo.github.io
 
 ## Korea Aerospace University
-* E-mail: yym064@kau.kr
+* E-mail: <yym064@kau.kr>
 * Office: Room #402, Research Building
 * Contact: 76 Hanggongdaehang-ro, Deogyang-gu, Goyang, Korea
-* Github: https://github.com/yym064 
+* Github: <https://github.com/yym064>
 
 
 ## <strong>Education
