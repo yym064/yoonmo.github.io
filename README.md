@@ -19,7 +19,7 @@
 ## <strong>Research
 * Deep Learning & Machine Learning
     * Image Restoration
-    * Frame interpolation
+    * Frame Interpolation
     * Video Forensic
 * Image Processing & Computer Vision
     * Multiview Geometry
