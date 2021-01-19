@@ -41,7 +41,7 @@
 
 * Y. Yang, H. S. Lee, and B. T. Oh, “Depth map upsampling with a confidence-based joint guided filter,”  Signal Processing: Image Communication, Sep. 2019. [[Paper]](https://www.sciencedirect.com/science/article/pii/S092359651830849X?casa_token=ojJZvHutCX4AAAAA:50RkrtSgfVb14VPmQolbtazDgZek-6D6H-hs70UE22AIoRTMeR8x1McY_aCByfdaWbUZC64G7hj2)
 
-* Y. Yang, J. H. Hong, and B. T. Oh, “Multi-layer frame rate up-conversion using trilateral filtering for multi-view video,” IEEE Trans. on Circuits and Systems for Video Technology, Feb. 2019.
+* Y. Yang, J. H. Hong, and B. T. Oh, “Multi-layer frame rate up-conversion using trilateral filtering for multi-view video,” IEEE Trans. on Circuits and Systems for Video Technology, Feb. 2019. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8125161)
 
 * D. Lee, Y. Yang, and B. T. Oh, “Pre-/post-processing to improve the coding performance of multiview plus depth map,” Signal Processing: Image Communication, Oct. 2017. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0923596517301194?casa_token=C1Szh3OjDUMAAAAA:J5nigFYK2_6hppRmzM7DnwvX96u3Z0fMzICR5hcxYngCDo-CISFwq69JJVgAROGfqOy-fQEAGSQb)
 
