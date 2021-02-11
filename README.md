@@ -14,20 +14,31 @@
     * Dissertation : Image and Video Resolution Enhancement using Joint Upsampling and Frame Interpolation
 * Master of Science, Feb. 2017
     * Department of Electronics and Information Engineering, Korea Aerospace University, Korea
+    * Dissertation : Frame Rate Up Conversion for Multi-view system
 * Bachelor of Science, Feb. 2015
     *  Department of Electronics and Information Engineering, Korea Aerospace University, Korea
 
 
 ## <strong>Research
-* Deep Learning & Machine Learning
+* Image Processing & Computer Vision and Deep Learning
     * Image Restoration
-    * Frame Interpolation
-    * Video Forensic
-* Image Processing & Computer Vision
+    * Motion Estimation
     * Multiview Geometry
-    * Image Filtering
     * Video Codec
 
+## <strong>Experience
+   * Image Restoration
+      * Deep Learning based Depth Map Super Resolution
+      * Deep Learning based Coding Artifacts Reduction
+      * Image Filtering based Joint Depth Map upsampling
+   * Motion Estimation
+      * Deep Learning based Frame Interpolation
+      * Frame Interpolation using Multiview system
+   * Multiview Geometry
+      * Free Viewpoint TV System
+   * Video Codec
+      * Machine Learning based Frame Deletion Detection
+      * Artifacts Reduction for Synthesized Views in 3D Video
 
 ## <strong>Publication
 ### International Journal
