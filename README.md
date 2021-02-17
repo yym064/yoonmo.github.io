@@ -30,12 +30,12 @@
    * Image Restoration
       * Deep Learning based Depth Map Super Resolution
       * Deep Learning based Coding Artifacts Reduction
-      * Image Filtering based Joint Depth Map upsampling
+      * Image Filtering based Joint Depth Map Upsampling
    * Motion Estimation
       * Deep Learning based Frame Interpolation
       * Frame Interpolation using Multiview System
    * Multiview Geometry
-      * Free Viewpoint TV System
+      * View Synthesis
    * Video Codec
       * Machine Learning based Frame Deletion Detection
       * Artifacts Reduction for Synthesized Views in Multiview System
