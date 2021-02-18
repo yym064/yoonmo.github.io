@@ -39,6 +39,7 @@
    * Video Codec
       * Machine Learning based Frame Deletion Detection
       * Artifacts Reduction for Synthesized Views in Multiview System
+      * Generative Adversarial Network based Anti-Forensic System
 
 ## <strong>Publication
 ### International Journal
