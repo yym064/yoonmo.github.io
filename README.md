@@ -91,3 +91,10 @@
 * D. Lee, Y. Yang, and B. T. Oh, “Analysis of Depth Map Resolution for Coding Performance in 3D Video System” Proceedings of the Korean Society of Broadcast Engineers Conference, 2015.
 
 * Y. Yang, B. T. OH, “Computer Generated Hologram: Recoding and Reconstruction,” Proceedings of the Korean Society of Broadcast Engineers Conference, 2014.
+
+## <strong>Patent
+*	METHOD AND APPARATUS FOR CLASSIFYING IMAGE, Korea - Application No. 10-2018-0103632
+*	ADVANCED SYSTEM AND METHOD FOR VIDEO COMPRESSION, Korea - Application No. 10-2154424-0000
+*	APPARATUS AND METHOD FOR CONVERTING FRAME RATE, Korea - Application No. 10-2160698-0000
+*	APPARATUS AND METHOD FOR TRAINING A DEEP NEURAL NETWORK, Korea - Application No. 10-2051390-0000
+*	APPARATUS AND METHOD FOR CONVERTING FRAME RATE, Korea - Application No. 10-1834952-0000
