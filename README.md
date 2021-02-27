@@ -59,6 +59,8 @@
 
 
 ### International Conference
+* K. Uddin, Y. Yang, B. T. Oh, “Analysis of generative adversarial network targeting anti-forensic in JPEG compressed domain,” International Workshop on Advanced Image Technology, 2021. [[Paper]](http://www.uunaka.org/IWAIT2021/withPDF/papers/paper_82.pdf)
+
 * Y. Yang, D. Lee, and B. T. Oh,“Frame rate up conversion for multi-view video,” APSIPA Annual Summit and Conference, 2016. [[Paper]](http://www.apsipa.org/proceedings_2016/HTML/paper2016/152.pdf)
 
 * D. Lee, Y. Yang, and B. T. Oh,“Enhancement of depth map post-processing for 3D video coding,” International Workshop on Advanced Image Technology, 2016.
