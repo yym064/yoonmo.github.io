@@ -14,7 +14,7 @@
     * Dissertation : Image and Video Resolution Enhancement using Joint Upsampling and Frame Interpolation
 * Master of Science, Feb. 2017
     * Department of Electronics and Information Engineering, Korea Aerospace University, Korea
-    * Dissertation : Frame Rate Up Conversion for Multiview System
+    * Thesis : Frame Rate Up Conversion for Multiview System
 * Bachelor of Science, Feb. 2015
     *  Department of Electronics and Information Engineering, Korea Aerospace University, Korea
 
