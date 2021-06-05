@@ -18,15 +18,7 @@
 * Bachelor of Science, Feb. 2015
     *  Department of Electronics and Information Engineering, Korea Aerospace University, Korea
 
-
 ## <strong>Research
-* Image Processing & Computer Vision and Deep Learning
-    * Image Restoration
-    * Motion Estimation
-    * Multiview Geometry
-    * Video Codec
-
-## <strong>Experience
    * Image Restoration
       * Deep Learning based Depth Map Super Resolution
       * Deep Learning based Coding Artifacts Reduction
