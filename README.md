@@ -1,12 +1,10 @@
 # Yoonmo Yang
 
-## Korea Aerospace University
-* E-mail: yym064@kau.kr
-* Office: Room #402, Research Building
-* Contact: 76 Hanggongdaehang-ro, Deogyang-gu, Goyang, Korea
+## SK Broadband
+* E-mail: yym064@sk.com
+* Office: SK Namsan Green Bldg., 24, Toegye-ro, Jung-gu, Seoul, 04637, Korea
 * Github: <https://github.com/yym064>
 * Page : <https://github.com/yym064/yoonmo.github.io>
-
 
 ## <strong>Education
 * Doctor of Philosophy, Feb, 2021
@@ -52,43 +50,24 @@
 
 ### International Conference
 * K. Uddin, Y. Yang, B. T. Oh, “Analysis of generative adversarial network targeting anti-forensic in JPEG compressed domain,” International Workshop on Advanced Image Technology, 2021. [[Paper]](http://www.uunaka.org/IWAIT2021/withPDF/papers/paper_82.pdf)
-
 * Y. Yang, D. Lee, and B. T. Oh,“Frame rate up conversion for multi-view video,” APSIPA Annual Summit and Conference, 2016. [[Paper]](http://www.apsipa.org/proceedings_2016/HTML/paper2016/152.pdf)
-
 * D. Lee, Y. Yang, and B. T. Oh,“Enhancement of depth map post-processing for 3D video coding,” International Workshop on Advanced Image Technology, 2016.
 
 
 ### Domestic Journal
 * K. Uddin, Y. Yang and B. T. Oh,“Deep Learning based HEVC Double Compression Detection,” Journal of Broadcast Engineering, 2019.
-
 * H. Hong, Y. Yang and B. T. Oh,“Detection of frame deletion using convolutional neural Network,” Journal of Broadcast Engineering, 2018.
-
 * H. Hong, Y. Yang and B. T. Oh,“Detection of frame deletion using coding pattern analysis,” Journal of Broadcast Engineering, 2017.
-
 * D. Lee, Y. Yang, and B. T. Oh,“Boundary artifacts reduction for synthesized views in 3D video,” Journal of Broadcast Engineering, 2016.
 ### Domestic Conference 
 
 * K. Uddin, Y. Yang, and B. T. Oh, “Anti-Forensic Against Double JPEG Compression Detection Using Adversarial Generative Network” Proceedings of the Korean Society of Broadcast Engineers Conference, 2019.
-
 * H. Hong, Y. Yang, and B. T. Oh, “Detection of Frame Deletion for HEVC-coded Video Using CNN” Proceedings of the Korean Society of Broadcast Engineers Conference, 2018.
-
 * D. Lee, Y. Yang, and B. T. Oh, “Boundary artifacts reduction for synthesized views in 3D video” Proceedings of the Korean Society of Broadcast Engineers Conference, 2016.
-
 * Y. Yang, D. Lee, and B. T. Oh, “Frame Rate Up Conversion for Multi-View Video” Proceedings of the Korean Society of Broadcast Engineers Conference, 2016.
-
 * Y. Yang, J.H. Lee, and B. T. Oh, “Real-Time Free Viewpoint TV System Using CUDA” Proceedings of the Korean Society of Broadcast Engineers Conference, 2015.
-
 * J.H. Lee, Y. Yang, and B. T. Oh, “Design of Free Viewpoint TV System with MS Kinects” Proceedings of the Korean Society of Broadcast Engineers Conference, 2015.
-
 * Y. Yang, D. Lee, and B. T. Oh, “Analysis of Frame Rate Up Conversion for Multi-View System” Proceedings of the Korean Society of Broadcast Engineers Conference, 2015.
-
 * D. Lee, Y. Yang, and B. T. Oh, “Analysis of Depth Map Resolution for Coding Performance in 3D Video System” Proceedings of the Korean Society of Broadcast Engineers Conference, 2015.
-
 * Y. Yang, B. T. OH, “Computer Generated Hologram: Recoding and Reconstruction,” Proceedings of the Korean Society of Broadcast Engineers Conference, 2014.
 
-## <strong>Patent
-*	METHOD AND APPARATUS FOR CLASSIFYING IMAGE, Korea - Application No. 10-2018-0103632
-*	ADVANCED SYSTEM AND METHOD FOR VIDEO COMPRESSION, Korea - Application No. 10-2154424-0000
-*	APPARATUS AND METHOD FOR CONVERTING FRAME RATE, Korea - Application No. 10-2160698-0000
-*	APPARATUS AND METHOD FOR TRAINING A DEEP NEURAL NETWORK, Korea - Application No. 10-2051390-0000
-*	APPARATUS AND METHOD FOR CONVERTING FRAME RATE, Korea - Application No. 10-1834952-0000
