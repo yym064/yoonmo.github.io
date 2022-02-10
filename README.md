@@ -33,7 +33,7 @@
 
 ## <strong>Publication
 ### International Journal
-* K. Uddin, Y. Yang, B. T. Oh, "Double compression detection in HEVC-coded video with the same coding parameters using picture partitioning information," Signal Processing: Image Communication, To be published.
+* K. Uddin, Y. Yang, B. T. Oh, "Double compression detection in HEVC-coded video with the same coding parameters using picture partitioning information," Signal Processing: Image Communication, Apr 2022.
    
 * S. Y. Lee, Y. Yang, D. Kim, S. Cho, and B. T. Oh, "Offset-based in-loop filtering with a deep network in HEVC," IEEE Access, Nov 2020. [[Code]](https://github.com/yym064/DeepSAO), [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9272307)
 
