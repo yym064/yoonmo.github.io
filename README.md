@@ -33,6 +33,8 @@
 
 ## <strong>Publication
 ### International Journal
+* K. Uddin, Y. Yang, B. T. Oh, "Double compression detection in HEVC-coded video with the same coding parameters using picture partitioning information," Signal Processing: Image Communication, To be published.
+   
 * S. Y. Lee, Y. Yang, D. Kim, S. Cho, and B. T. Oh, "Offset-based in-loop filtering with a deep network in HEVC," IEEE Access, Nov 2020. [[Code]](https://github.com/yym064/DeepSAO), [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9272307)
 
 * Y. Yang, B. T. Oh, “Video frame interpolation using deep cascaded network structure,”  Signal Processing: Image Communication, Nov. 2020. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0923596520301491?casa_token=eQ66ifyZ3ugAAAAA:t50zKvQR1234Wl8LADp3wAqD0MzqIMNHTzknbR3LklVECtVbzLQ1LLgvzjpKeeHY9iNr5yrZBNmV)
