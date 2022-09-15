@@ -1,5 +1,8 @@
 # Yoonmo Yang
 
+## Experience
+* Senior Researcher, VR/AR Research Center, Korea Electronics Technology Institute(KETI), Sep.2022 ~ Present
+* Manager, Product Tribe, SK Broadband, Mar.2021 ~ Aug.2022
 
 ## <strong>Education
 * Doctor of Philosophy, Feb, 2021
@@ -10,10 +13,6 @@
     * Thesis : Frame Rate Up Conversion for Multiview System
 * Bachelor of Science, Feb. 2015
     *  Department of Electronics and Information Engineering, Korea Aerospace University, Korea
-
-## Experience
-* Senior Researcher, Korea Electronics Technology Institute(KETI), Sep.2022 ~ Present
-* Manager, SK Broadband, Mar.2021 ~ Aug.2022
 
 ## <strong>Research
    * Image Restoration
