@@ -1,10 +1,5 @@
 # Yoonmo Yang
 
-## SK Broadband
-* E-mail: yym064@sk.com
-* Office: SK Namsan Green Bldg., 24, Toegye-ro, Jung-gu, Seoul, 04637, Korea
-* Github: <https://github.com/yym064>
-* Page : <https://github.com/yym064/yoonmo.github.io>
 
 ## <strong>Education
 * Doctor of Philosophy, Feb, 2021
@@ -15,6 +10,10 @@
     * Thesis : Frame Rate Up Conversion for Multiview System
 * Bachelor of Science, Feb. 2015
     *  Department of Electronics and Information Engineering, Korea Aerospace University, Korea
+
+## Experience
+* Senior Researcher, Korea Electronics Technology Institute(KETI), Sep.2022 ~ Present
+* Manager, SK Broadband, Mar.2021 ~ Aug.2022
 
 ## <strong>Research
    * Image Restoration
