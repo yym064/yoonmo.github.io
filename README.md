@@ -16,22 +16,21 @@
 
 ## <strong>Research
    * Image Restoration
-      * Deep Learning based Depth Map Super Resolution
-      * Deep Learning based Coding Artifacts Reduction
-      * Image Filtering based Joint Depth Map Upsampling
-   * Motion Estimation
+      * Deep Learning based Depth Map Processing
+      * Image Filtering based Joint Depth Map Processing
+   * Motion Estimation & Multiview Geometry
       * Deep Learning based Frame Interpolation
-      * Frame Interpolation using Multiview System
-   * Multiview Geometry
+      * Multiview System based Frame Interpolation
       * View Synthesis
    * Video Codec
+      * Deep Learning based Coding Artifacts Reduction
+      * Generative Adversarial Network based Anti-Forensic System
       * Machine Learning based Frame Deletion Detection
       * Artifacts Reduction for Synthesized Views in Multiview System
-      * Generative Adversarial Network based Anti-Forensic System
 
 ## <strong>Publication
 ### International Journal
-* J. Yeom, S. Lim, Y. Yang, Y. Son, & K. S. Choi, "Efficient evaluation of a three-dimensional eye-box in a near-eye display using light-field acquisition of luminance distribution," Optics Express, May 2023, [[Paper]](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-11-17304)
+* J. Yeom, S. Lim, Y. Yang, Y. Son, & K. S. Choi, "Efficient evaluation of a three-dimensional eye-box in a near-eye display using light-field acquisition of luminance distribution," Optics Express, May 2023. [[Paper]](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-11-17304)
 
 * K. Uddin, Y. Yang, B. T. Oh, "Double compression detection in HEVC-coded video with the same coding parameters using picture partitioning information," Signal Processing: Image Communication, Apr 2022. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0923596522000054)
    
