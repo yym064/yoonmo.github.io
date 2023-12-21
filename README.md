@@ -30,6 +30,10 @@
 
 ## <strong>Publication
 ### International Journal
+* K. Uddin, Y. Yang, T. H. Jeong, B. T. Oh, "A robust open-set multi-instance learning for defending adversarial attacks in digital image," IEEE Trans. on Information Forensics and Security, To be published
+
+* K. Uddin, Y. Yang, B. T. Oh, "Deep learning-based counter anti-forensic of GAN-based attack in HEVC compressed domain using coding pattern analysis," Expert Systems with Applications, Dec, 2023 [[Paper]]([https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-11-17304](https://www.sciencedirect.com/science/article/pii/S0957417423014148))
+
 * J. Yeom, S. Lim, Y. Yang, Y. Son, & K. S. Choi, "Efficient evaluation of a three-dimensional eye-box in a near-eye display using light-field acquisition of luminance distribution," Optics Express, May 2023. [[Paper]](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-11-17304)
 
 * K. Uddin, Y. Yang, B. T. Oh, "Double compression detection in HEVC-coded video with the same coding parameters using picture partitioning information," Signal Processing: Image Communication, Apr 2022. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0923596522000054)
