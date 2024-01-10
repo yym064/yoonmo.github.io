@@ -16,17 +16,10 @@
 
 ## <strong>Research
    * Image Restoration
-      * Deep Learning based Depth Map Processing
-      * Image Filtering based Joint Depth Map Processing
    * Motion Estimation & Multiview Geometry
-      * Deep Learning based Frame Interpolation
-      * Multiview System based Frame Interpolation
-      * View Synthesis
    * Video Codec
-      * Deep Learning based Coding Artifacts Reduction
-      * Generative Adversarial Network based Anti-Forensic System
-      * Machine Learning based Frame Deletion Detection
-      * Artifacts Reduction for Synthesized Views in Multiview System
+   * Video Forensic
+
 
 ## <strong>Publication
 ### International Journal
