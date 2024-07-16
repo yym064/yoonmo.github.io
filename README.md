@@ -47,7 +47,7 @@
 
 
 ### International Conference
-* Challenge, “Real-Time 4K super-resolution of compressed AVIF images. AIS 2024 challenge survey,” Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. [[Paper]]((https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/html/Conde_Real-Time_4K_Super-Resolution_of_Compressed_AVIF_Images._AIS_2024_Challenge_CVPRW_2024_paper.html))
+* Challenge, “Real-Time 4K super-resolution of compressed AVIF images. AIS 2024 challenge survey,” Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/html/Conde_Real-Time_4K_Super-Resolution_of_Compressed_AVIF_Images._AIS_2024_Challenge_CVPRW_2024_paper.html)
 * K. Uddin, Y. Yang, B. T. Oh, “Analysis of generative adversarial network targeting anti-forensic in JPEG compressed domain,” International Workshop on Advanced Image Technology, 2021. [[Paper]](http://www.uunaka.org/IWAIT2021/withPDF/papers/paper_82.pdf)
 * Y. Yang, D. Lee, and B. T. Oh,“Frame rate up conversion for multi-view video,” APSIPA Annual Summit and Conference, 2016. [[Paper]](http://www.apsipa.org/proceedings_2016/HTML/paper2016/152.pdf)
 * D. Lee, Y. Yang, and B. T. Oh,“Enhancement of depth map post-processing for 3D video coding,” International Workshop on Advanced Image Technology, 2016.
