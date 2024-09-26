@@ -23,6 +23,8 @@
 
 ## <strong>Publication
 ### International Journal
+* S. Khalid, et al, "A review on traditional and artificial intelligence-based preservation techniques for oil painting artworks," Gels, 2024. [[Paper]](https://www.mdpi.com/2310-2861/10/8/517)
+
 * K. Uddin, Y. Yang, T. H. Jeong, B. T. Oh, "A robust open-set multi-instance learning for defending adversarial attacks in digital image," IEEE Trans. on Information Forensics and Security, Dec, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10371396)
 
 * K. Uddin, Y. Yang, B. T. Oh, "Deep learning-based counter anti-forensic of GAN-based attack in HEVC compressed domain using coding pattern analysis," Expert Systems with Applications, Dec, 2023. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417423014148)
