@@ -1,6 +1,6 @@
 # Yoonmo Yang
 
-## Experience
+## <strong>Experience
 * Senior Researcher, VR/AR Research Center, Korea Electronics Technology Institute(KETI), Sep.2022 ~ Present
 * Manager, Product Tribe, SK Broadband, Mar.2021 ~ Aug.2022
 
