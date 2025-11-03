@@ -23,6 +23,8 @@
 
 ## <strong>Publication
 ### International Journal
+* J. Yeom, Y. Yang, J. Choi, H. Jang, J. Kim, H. Jeong and K. Choi, "Object-contingent multi-focal near-eye display enabled by a neural decomposition network for augmented reality," Photonics Research, 2025. [[Paper]](https://www.researching.cn/Articles/OJf20e82965304dac)
+
 * S. Khalid, et al, "A review on traditional and artificial intelligence-based preservation techniques for oil painting artworks," Gels, 2024. [[Paper]](https://www.mdpi.com/2310-2861/10/8/517)
 
 * K. Uddin, Y. Yang, T. H. Jeong, B. T. Oh, "A robust open-set multi-instance learning for defending adversarial attacks in digital image," IEEE Trans. on Information Forensics and Security, Dec, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10371396)
